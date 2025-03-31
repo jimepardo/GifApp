@@ -1,5 +1,5 @@
-GifApp
+# GifApp - GIF Search Application
 
-Es una app que muestra los gifs que se le soliciten.
+This is a personal project built with ReactJS. GifApp allows users to search for and display GIFs using the Giphy API. It features dynamic search functionality, real-time results, and a responsive design for an optimal user experience.
 
-Se puede ver en el siguiente link: https://jimepardo.github.io/GifApp/
+Check it out here: https://jimepardo.github.io/GifApp/
